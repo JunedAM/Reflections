@@ -11,6 +11,7 @@ after adding the files to staging area, I can see the difference between staged 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+It is helpful to create branches when the changes you are going to make in the project are not necessarily for an updated version, but for a different variant. For example: Easy mode in the game.
 
 How do the diagrams help you visualize the branch structure?
 
