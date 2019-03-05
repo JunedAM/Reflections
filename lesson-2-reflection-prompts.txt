@@ -1,7 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
+Initializing a repository converts a directory to a git respository. It creates a ".git" file that tracks the versions of respository through changes.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Staging allows in committing a particular set of files instead of whole repository at one. This will help in creating versions which are more logical.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
