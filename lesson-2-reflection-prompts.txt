@@ -7,6 +7,7 @@ Staging allows in committing a particular set of files instead of whole reposito
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+after adding the files to staging area, I can see the difference between staged files and last commit by using "git diff --staged". He it needs to be ensured that the files staged for committing are logically linked before committing. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
