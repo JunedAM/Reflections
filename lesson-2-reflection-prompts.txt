@@ -14,6 +14,8 @@ organized? How would branches help?
 It is helpful to create branches when the changes you are going to make in the project are not necessarily for an updated version, but for a different variant. For example: Easy mode in the game.
 
 How do the diagrams help you visualize the branch structure?
+Using diagrams I can see the point at which new branch was created and the changes made in the main branch after the new branch was created.
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
